@@ -11,4 +11,4 @@ Project contains several tasks including:
 
 - Car Detection (from sample videos)
 
-Sample output has been added also
+
